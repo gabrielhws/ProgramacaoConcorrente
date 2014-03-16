@@ -1,0 +1,12 @@
+c:\users\gapdd\documents\visual studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\bin\Debug\OrdenarVetorParImpar.exe.config
+c:\users\gapdd\documents\visual studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\obj\Debug\OrdenarVetorParImpar.csprojResolveAssemblyReference.cache
+c:\users\gapdd\documents\visual studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\bin\Debug\OrdenarVetorParImpar.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\bin\Debug\OrdenarVetorParImpar.pdb
+c:\users\gapdd\documents\visual studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\obj\Debug\OrdenarVetorParImpar.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\obj\Debug\OrdenarVetorParImpar.pdb
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\bin\Debug\OrdenarVetorParImpar.exe.config
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\bin\Debug\OrdenarVetorParImpar.exe
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\bin\Debug\OrdenarVetorParImpar.pdb
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\obj\Debug\OrdenarVetorParImpar.csprojResolveAssemblyReference.cache
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\obj\Debug\OrdenarVetorParImpar.exe
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\OrdenarVetorParImpar\obj\Debug\OrdenarVetorParImpar.pdb

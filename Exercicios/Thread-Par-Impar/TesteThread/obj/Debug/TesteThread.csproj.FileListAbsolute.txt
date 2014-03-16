@@ -1,0 +1,5 @@
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\TesteThread\bin\Debug\TesteThread.exe.config
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\TesteThread\bin\Debug\TesteThread.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\TesteThread\bin\Debug\TesteThread.pdb
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\TesteThread\obj\Debug\TesteThread.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\TesteThread\obj\Debug\TesteThread.pdb

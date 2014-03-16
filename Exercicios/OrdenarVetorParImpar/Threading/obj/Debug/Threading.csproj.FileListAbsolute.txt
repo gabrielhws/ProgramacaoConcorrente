@@ -1,0 +1,6 @@
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\Threading\bin\Debug\Threading.exe.config
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\Threading\bin\Debug\Threading.exe
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\Threading\bin\Debug\Threading.pdb
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\Threading\obj\Debug\Threading.exe
+C:\Users\casas\Documents\Visual Studio 2013\Projects\OrdenarVetorParImpar\Threading\obj\Debug\Threading.pdb

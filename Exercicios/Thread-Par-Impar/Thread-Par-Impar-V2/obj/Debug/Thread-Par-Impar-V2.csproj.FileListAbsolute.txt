@@ -1,0 +1,5 @@
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar-V2\bin\Debug\Thread-Par-Impar-V2.exe.config
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar-V2\bin\Debug\Thread-Par-Impar-V2.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar-V2\bin\Debug\Thread-Par-Impar-V2.pdb
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar-V2\obj\Debug\Thread-Par-Impar-V2.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar-V2\obj\Debug\Thread-Par-Impar-V2.pdb

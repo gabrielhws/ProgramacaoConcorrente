@@ -1,0 +1,9 @@
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\bin\Debug\Thread-Par-Impar.exe.config
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\bin\Debug\Thread-Par-Impar.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\bin\Debug\Thread-Par-Impar.pdb
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\obj\Debug\Thread-Par-Impar.csprojResolveAssemblyReference.cache
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\obj\Debug\Thread-Par-Impar.exe
+c:\users\gapdd\documents\visual studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\obj\Debug\Thread-Par-Impar.pdb
+C:\Users\casas\Documents\Visual Studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\bin\Debug\Thread-Par-Impar.exe.config
+C:\Users\casas\Documents\Visual Studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\obj\Debug\Thread-Par-Impar.exe
+C:\Users\casas\Documents\Visual Studio 2013\Projects\Thread-Par-Impar\Thread-Par-Impar\obj\Debug\Thread-Par-Impar.pdb
