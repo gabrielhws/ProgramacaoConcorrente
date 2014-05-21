@@ -4,3 +4,6 @@ C:\Users\casas\Documents\Visual Studio 2013\Projects\Aula3ProgConcorrente\Aula3P
 C:\Users\casas\Documents\Visual Studio 2013\Projects\Aula3ProgConcorrente\Aula3ProgConcorrente\obj\Debug\Aula3ProgConcorrente.csprojResolveAssemblyReference.cache
 C:\Users\casas\Documents\Visual Studio 2013\Projects\Aula3ProgConcorrente\Aula3ProgConcorrente\obj\Debug\Aula3ProgConcorrente.exe
 C:\Users\casas\Documents\Visual Studio 2013\Projects\Aula3ProgConcorrente\Aula3ProgConcorrente\obj\Debug\Aula3ProgConcorrente.pdb
+D:\Codes\Git\ProgramacaoConcorrente\Aulas\Aula3ProgConcorrente\Aula3ProgConcorrente\bin\Debug\Aula3ProgConcorrente.exe.config
+D:\Codes\Git\ProgramacaoConcorrente\Aulas\Aula3ProgConcorrente\Aula3ProgConcorrente\obj\Debug\Aula3ProgConcorrente.exe
+D:\Codes\Git\ProgramacaoConcorrente\Aulas\Aula3ProgConcorrente\Aula3ProgConcorrente\obj\Debug\Aula3ProgConcorrente.pdb
